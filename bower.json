@@ -1,0 +1,17 @@
+{
+  "name": "boxes",
+  "version": "0.0.0",
+  "authors": [
+    "代鹏 <dtimes6@163.com>"
+  ],
+  "description": "OpenBox Tool Kit",
+  "license": "Copyright (C) Peng Dai, All rights reserved!",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ]
+}
